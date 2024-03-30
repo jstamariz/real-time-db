@@ -1,0 +1,6 @@
+@real_time_db_HostAddress = http://localhost:5241
+
+GET {{real_time_db_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
